@@ -316,3 +316,7 @@ body {
 .safari.mac .sc-radio-view.sc-layout-horizontal .sc-radio-button {
   margin-top: 4px;
 }
+
+.sc-theme .sc-radio-view.sc-layout-horizontal .sc-radio-button {
+  margin-top: 4px;
+}
