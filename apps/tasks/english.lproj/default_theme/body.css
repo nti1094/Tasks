@@ -320,3 +320,7 @@ body {
 .sc-theme .sc-radio-view.sc-layout-horizontal .sc-radio-button {
   margin-top: 4px;
 }
+
+.sc-segment label {
+  line-height: 32px !important;
+}
